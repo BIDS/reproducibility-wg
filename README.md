@@ -5,6 +5,8 @@ reproducibility group.
 
 Current members: [@pbstark](https://github.com/pbstark), 
 [@karthik](https://github.com/karthik), 
-[@fatmai](https://github.com/fatmai), and
-[@katyhuff](https://github.com/katyhuff).
+[@fatmai](https://github.com/fatmai),
+[@katyhuff](https://github.com/katyhuff),
+[@bareid](https://github.com/bareid), and 
+[@jkitzes](https://github.com/jkitzes). 
 
