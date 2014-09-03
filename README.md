@@ -7,6 +7,5 @@ Current members: [@pbstark](https://github.com/pbstark),
 [@karthik](https://github.com/karthik), 
 [@fatmai](https://github.com/fatmai),
 [@katyhuff](https://github.com/katyhuff),
-[@bareid](https://github.com/bareid), and 
-[@jkitzes](https://github.com/jkitzes). 
-
+[@jkitzes](https://github.com/jkitzes), and
+[@bareid](https://github.com/bareid).
