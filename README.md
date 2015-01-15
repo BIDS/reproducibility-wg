@@ -13,7 +13,7 @@ Current members:
 - [@bareid](https://github.com/bareid),
 - [@danielturek](https://github.com/danielturek),
 - [@fperez](Fernando Perez),
-- [@nickadams](Nicholas B. Adams),
+- [@nickbadams](Nicholas B. Adams),
 - [@kbarbary](Kyle Barbary),
 - [@postfalk](Falk Schuetzenmeister), and
 - Erik Mitchell
