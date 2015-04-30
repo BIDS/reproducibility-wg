@@ -13,8 +13,7 @@ reproducible is my science?**
 3. Clarify ambiguity among terminology (reproducibility, replicability, 
    repeatability, verifyability, etc.)
 4. Establish domain-specific variance and criteria
-5. Vary inputs/methods to determine robustness of results
-6. Given placement on the spectrum, provide a set of recommendations for specific gaps.
+5. Given placement on the spectrum, provide a set of recommendations for specific gaps.
 
 
 ## The Decision Tree
