@@ -21,4 +21,10 @@ reproducibility
 ## The Decision Tree
 
 - [ ] If you use data, do you ever enter it by hand?
+- [ ] Do you store your data in a database?
 - [ ] If your laptop exploded, would your research be lost forever?
+- [ ] Do you use version controlling for your software?
+- [ ] Do you use version controlling for your data?
+- [ ] Is your data available and freely accesible to your community?  // Fully,
+  partially
+- [ ] Is your code available and freely accesible to your community?
