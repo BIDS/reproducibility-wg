@@ -46,6 +46,8 @@ reproducibility
 - [ ] Does your software run on Windows?  
 - [ ] Do you have a bug tracker? (e.g. email, github issues, etc.)
 - [ ] Do you reference bug fixes in software releases?
+- [ ] Does your software have a complete readme with install instructions?
+- [ ] Does your software rely on only accessible dependencies?
 
 
 **Data**
