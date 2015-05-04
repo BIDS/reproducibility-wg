@@ -21,7 +21,7 @@ reproducibility
 ## The Decision Tree
 
 
-** Code**
+**Code**
 
 - [ ] If your laptop exploded, would your research be lost forever?
 - [ ] Do you use version controlling for your software?
