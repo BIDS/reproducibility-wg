@@ -20,11 +20,61 @@ reproducibility
 
 ## The Decision Tree
 
-- [ ] If you use data, do you ever enter it by hand?
-- [ ] Do you store your data in a database?
+
+** Code**
+
 - [ ] If your laptop exploded, would your research be lost forever?
 - [ ] Do you use version controlling for your software?
 - [ ] Do you use version controlling for your data?
-- [ ] Is your data available and freely accesible to your community?  // Fully,
-  partially
-- [ ] Is your code available and freely accesible to your community?
+- [ ] Is your code available and freely accessible to your community?
+- [ ] How permissible is your license?
+- [ ] If you license is OSS, what kind?
+- [ ] Can I tell that your tests are passing (Continuous Integration)?
+- [ ] What is your test coverage percentage?
+- [ ] Do your tests demonstrate the use of your code?
+- [ ] Does it have documentation?
+- [ ] Do the public functions in your API have documentation of their parameters?
+- [ ] When a user has the most recent version of the code, do they have the most recent version of the documentation?
+- [ ] Does your Software have long form docs (e.g. vignettes)
+- [ ] Is your code written in a common programming language?
+- [ ] Is your code distributed in a centralized software package archive (pypi, CRAN)?
+- [ ] Is there an archival journal article covering the features of your software?
+- [ ] Do you have separate DOIs for each version release of your software?
+- [ ] Can someone outside of your lab/research group build and your software in 1 step? Two steps?
+- [ ] Does your software run on MacOSX?  
+- [ ] Does your software run on Linux?  
+- [ ] Does your software run on Windows?  
+- [ ] Do you have a bug tracker? (e.g. email, github issues, etc.)
+- [ ] Do you reference bug fixes in software releases?
+
+
+**Data**
+
+- [ ] Does any of your data rely on expert opinion (i.e., did you make up any of the data? :) 
+- [ ] Is your data collection process automated?
+    - [ ] If no, is it validated?
+- [ ] How much of your data manipulation is automated?
+- [ ] How much of your data analysis involves clicking (i.e., is not coded)?
+- [ ] If you use data, do you ever enter it by hand? (why does this matter?)
+    -  [ ] If yes, are you the only one who enters the data?
+- [ ] Does your data collection process include a chain of responsibility?
+- [ ] Do you store your data in a database?
+- [ ] Is your data downloadable online?
+- [ ] Is your data publicly accessible?
+- [ ] Is your data part of a persistent data repository? (E.g. Figshare, Dat)
+- [ ] Is your raw data available?
+- [ ] Do you have separate DOIs for each version release of your data?
+- [ ] Does your data have associated metadata?
+    - [ ] Has the metadata been validated?
+    - [ ] Is the data schema in a common format?
+    - [ ] Is it inextricably attached to the data? (E.g. stored in the database like your data)
+- [ ] Are there restrictions on your data's usage?  (e.g. Embargoes)
+- [ ] Do you have a bug tracker in data releases? (email, github issues, etc.)
+- [ ] Is your data processing (from acquisition to evaluation) documented?
+
+
+
+**Analysis**
+
+- [ ] Do you automate plotting?
+- [ ] Does your data analysis involve more than one step?
