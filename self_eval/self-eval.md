@@ -12,11 +12,8 @@ provide something similar to a reproducible research badge for the scientist.
 1. Identify practices, rather than tools, characterizing reproducibility 
 2. Based on these practices, place a study somewhere on the spectrum of
 reproducibility
-3. Clarify ambiguity among terminology (reproducibility, replicability, 
-   repeatability, verifyability, etc.)
-4. Establish domain-specific variance and criteria
-5. Given placement on the spectrum, provide a set of recommendations for specific gaps.
-
+3. Establish domain-specific variance and criteria
+4. Given placement on the spectrum, provide a set of recommendations for specific gaps.
 
 ## The Decision Tree
 
