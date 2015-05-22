@@ -45,7 +45,7 @@ reproducibility
 - [ ] Do you reference bug fixes in software releases?
 - [ ] Does your software have a complete readme with install instructions?
 - [ ] Does your software rely on only accessible dependencies?
-- [ ] Does your software have an open license?
+- [ ] Does your software have a license allowing others to use it?
 - [ ] Does the license you chose allow others to extend your analysis (e.g. non-viral license).
 
 **Data**
