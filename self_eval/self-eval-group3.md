@@ -2,13 +2,14 @@
 
 ## Using the Questions
 
-Scoring: A minimum of x "yes" answers are needed to achieve certain
-levels of status.
+First, answer each of the questions below in the context of your project.
 
-- Platinum: 100%  
-- Gold: At least one "yes" per category and more than 80% "yes" total  
-- Silver: At least one "yes" per category with less than 80% "yes" total  
-- Bronze: Greater than 50% "yes" total  
+Then assign an overall level of reproducibility to your project according to:
+
+- Platinum: 100% "yes" answers  
+- Gold: At least one "yes" per category and more than 80% "yes"  
+- Silver: At least one "yes" per category with less than 80% "yes"  
+- Bronze: Greater than 50% "yes"  
 - Less than 50%: Contact the BIDS Reproducibility Working Group for
   immediate help  
 
