@@ -45,7 +45,8 @@ reproducibility
 - [ ] Do you reference bug fixes in software releases?
 - [ ] Does your software have a complete readme with install instructions?
 - [ ] Does your software rely on only accessible dependencies?
-
+- [ ] Does your software have a license allowing others to use it?
+- [ ] Does the license you chose allow others to extend your analysis (e.g. non-viral license).
 
 **Data**
 
@@ -60,6 +61,7 @@ reproducibility
 - [ ] Do you store your data in a database?
 - [ ] Is your data downloadable online?
 - [ ] Is your data publicly accessible?
+- [ ] Is it available at a persistent URL.
 - [ ] Is your data part of a persistent data repository? (E.g. Figshare, Dat)
 - [ ] Is your raw data available?
 - [ ] Do you have separate DOIs for each version release of your data?
@@ -68,9 +70,9 @@ reproducibility
     - [ ] Is the data schema in a common format?
     - [ ] Is it inextricably attached to the data? (E.g. stored in the database like your data)
 - [ ] Are there restrictions on your data's usage?  (e.g. Embargoes)
+- [ ] Is your data licensed in a manner that allows others to use it in extensions of your work (e.g. PDDL).
 - [ ] Do you have a bug tracker in data releases? (email, github issues, etc.)
 - [ ] Is your data processing (from acquisition to evaluation) documented?
-
 
 
 **Analysis**
