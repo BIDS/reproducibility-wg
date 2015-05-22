@@ -3,18 +3,15 @@
 ## Using the Questions
 
 Scoring: A minimum of x "yes" answers are needed to achieve certain
-levels of status
+levels of status.
 
-- Platnum: 100%
-
-- Gold: At least one "yes" per category and more than 80% “yes” total
-
-- Silver: At least one "yes" per category with less than 80% “yes”
-total
-
-- Bronze: Greater than 50% "yes" total
-
-- Less than 50%: Contact the BIDS Reproducibility Working Group for help
+- Platinum: 100%  
+- Gold: At least one "yes" per category and more than 80% “yes” total  
+- Silver: At least one "yes" per category with less than 80% “yes”  
+total  
+- Bronze: Greater than 50% "yes" total  
+- Less than 50%: Contact the BIDS Reproducibility Working Group for
+  immediate help  
 
 ## Questions
 
