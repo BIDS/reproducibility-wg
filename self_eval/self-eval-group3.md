@@ -17,7 +17,7 @@ Then assign an overall level of reproducibility to your project according to:
 
 ### General
 - If your laptop exploded, would your research be lost forever?
-- If *you* exploded, would your research be lost forever?
+- If **you** exploded, would your research be lost forever?
 - Do you have a software license?
 
 ### Code
@@ -47,7 +47,6 @@ Then assign an overall level of reproducibility to your project according to:
 ### Data
 - Do you use version controlling for your data?
 - Is your data collection process automated?
-    - If no, is it validated?
 - Is your data manipulation automated?
 - Is your data processing (from acquisition to evaluation) documented?
 - Is your data downloadable online?
@@ -58,6 +57,5 @@ Then assign an overall level of reproducibility to your project according to:
 ### Analysis
 - Can your analysis be re-run from start to finish with a single command?
 - Do you automate figure generation?
-- Does your data analysis involve more than one step?
-    - If so, are these steps scripted? 
+- Are the steps of your data analysis scripted? 
 
